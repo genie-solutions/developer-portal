@@ -1,6 +1,6 @@
-# Genie Solutions Developer Portal 
+### Genie Solutions - Developer Portal 
 
-**Work in progress**
+Welcome to the Genie Solutions Developer Portal documentation.
 
+This site is currently under heavy development.
 
-## Start Soon
