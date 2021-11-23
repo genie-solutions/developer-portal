@@ -3,6 +3,6 @@ layout: default
 ---
 
 
-**FHIR API**, and **PMS** Integrations coming soon.
+**FHIR API**, and **PMS** Integrations **COMING SOON**.
 
 
