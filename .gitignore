@@ -1,0 +1,7 @@
+docs/*.gem
+.git
+docs/.bundle
+docs/.DS_Store
+docs/_site
+docs/Gemfile.lock
+docs/.jekyll-cache
